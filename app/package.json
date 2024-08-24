@@ -7,13 +7,13 @@
     "build": "webpack--openssl-legacy-provider build",
     "dev": "webpack-dev-server"
   },
-  "author": "Rahul Sabinkar, Bongurala Sai Manikanta Teja, Boini Sai Kumar, Gummadi Sai Kumar",
+  "author": "EnigmaX",
   "license": "MIT",
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.5",
-    "webpack": "^5.94.0",
+    "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^5.0.4"
+    "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
     "web3": "^1.6.1"
