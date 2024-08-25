@@ -40,8 +40,8 @@ header{
 }
 
 img#logo{
-    width: 25%;
-    padding: 10px 20px;
+    width: 18%;
+    padding: 8px;
 }
 
 img#logo:hover{
@@ -166,6 +166,21 @@ a.hover:hover{
     background-color: #0079a8;
 }
 
+
+/* Live Updates Section */
+.counter {
+    font-size: 48px; /* Large font size for numbers */
+    color: #28a745; /* Green color for numbers */
+    font-weight: 800; /* Bold font weight */
+    margin-bottom: 10px;
+}
+
+.live{
+    display: grid;
+    justify-self: center;
+}
+
+
 .btn-lg{
     padding: 15px 30px 15px 30px;
     font-weight: 600;
@@ -186,7 +201,7 @@ a.hover:hover{
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    height: 350px;
+    height: 300px;
     color: #4a4a4a;
     background-color: #fff;
     border-radius: 8px;
@@ -208,6 +223,7 @@ a.hover:hover{
 .content-box img{
     width: 35%;
     padding: 25px 0px;
+    border-radius: 50%;
 }
 
 .content-box.profile{
@@ -245,6 +261,10 @@ a.hover:hover{
 
 .content-box.contact{
     margin: 100px 0px;
+}
+
+.content-box.contact img{
+    width: 120px;
 }
 
 .accordian{
