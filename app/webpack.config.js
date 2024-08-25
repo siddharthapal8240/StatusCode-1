@@ -13,6 +13,7 @@ module.exports = {
     new CopyWebpackPlugin([{ from: "./src/html/homepage.html", to: "homepage.html" }]),
     new CopyWebpackPlugin([{ from: "./src/html/about-us.html", to: "about-us.html" }]),
     new CopyWebpackPlugin([{ from: "./src/html/contact.html", to: "contact.html" }]),
+    new CopyWebpackPlugin([{ from: "./src/html/user.html", to: "user.html" }]),
     new CopyWebpackPlugin([{ from: "./src/html/awareness.html", to: "awareness.html" }]),
     new CopyWebpackPlugin([{ from: "./src/html/donor-registration.html", to: "donor-registration.html" }]),
     new CopyWebpackPlugin([{ from: "./src/html/donor-pledge.html", to: "donor-pledge.html" }]),
