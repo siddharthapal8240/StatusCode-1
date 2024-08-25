@@ -30,7 +30,7 @@ module.exports = {
     new CopyWebpackPlugin([{ from: "./src/images/icon.svg", to: "images/icon.svg" }]),
     new CopyWebpackPlugin([{ from: "./src/images/logopng.png", to: "images/logopng.png" }]),
     new CopyWebpackPlugin([{ from: "./src/images/logopng.png", to: "images/logopng.png" }]),
-    new CopyWebpackPlugin([{ from: "./src/images/logopng", to: "images/logopng.png" }]),
+    new CopyWebpackPlugin([{ from: "./src/images/logopng.png", to: "images/logopng.png" }]),
     new CopyWebpackPlugin([{ from: "./src/images/header-image-new.png", to: "images/header-image-new.png" }]),
     new CopyWebpackPlugin([{ from: "./src/images/logopng.png", to: "images/logopng.png" }]),
     new CopyWebpackPlugin([{ from: "./src/images/icon.svg", to: "images/icon.svg" }]),
