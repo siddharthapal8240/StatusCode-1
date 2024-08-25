@@ -161,10 +161,6 @@ a.hover:hover{
     background-color: #0079a8;
 }
 
-.btn.btn-primary.custom:hover{
-    background-color: #0079a8;
-}
-
 .btn-lg{
     padding: 15px 30px 15px 30px;
     font-weight: 600;
