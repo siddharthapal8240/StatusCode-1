@@ -3,6 +3,11 @@
 <p align="center">~ An impactful decentralized web platform for organ donation ~</p>
 
 <h2 align="center">Made with ❤ by Team EnigmaX <br> @ StatusCode1</h2>
+<h3 align="center">
+
+[Presentation](https://drive.google.com/file/d/17ZhfLm_lg2pDjNFDDxwOGlWkLIFgkqv_/view?usp=sharing)
+
+[Video Demo](https://youtu.be/bLX4U9JqmRo?si=J2W6bCDv7E_I2d3L) </h3>
 
 # Team Members
 - Siddhartha Pal
