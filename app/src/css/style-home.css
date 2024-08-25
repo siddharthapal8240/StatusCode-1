@@ -176,8 +176,7 @@ a.hover:hover{
 }
 
 .live{
-    padding-left: 30px;
-    display: grid;
+    padding-left: 15%;
     justify-self: center;
 }
 
